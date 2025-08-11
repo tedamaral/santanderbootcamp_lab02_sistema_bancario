@@ -1,2 +1,2 @@
-# santanderbootcamp_lab02_sistema_bancario
-Desafio 2 do Bootcamp Santander + DIO - Backend com Python
+# Criando um Sistema Bancário com Python
+Desafio 2 do Bootcamp - Santander 2025 - Back-End com Python
